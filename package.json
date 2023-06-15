@@ -1,0 +1,16 @@
+{
+  "name": "programming-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "payDateCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-holidays": "^3.21.1",
+    "moment": "^2.29.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
